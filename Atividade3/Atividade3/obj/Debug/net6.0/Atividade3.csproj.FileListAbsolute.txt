@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\Atividade3.exe
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\Atividade3.deps.json
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\Atividade3.runtimeconfig.json
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\Atividade3.dll
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\ref\Atividade3.dll
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\bin\Debug\net6.0\Atividade3.pdb
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.AssemblyInfo.cs
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.dll
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\ref\Atividade3.dll
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.pdb
+H:\Visual Studio 2022\Projects\Atividade3\Atividade3\obj\Debug\net6.0\Atividade3.genruntimeconfig.cache
