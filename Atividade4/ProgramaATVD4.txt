@@ -1,3 +1,5 @@
+Programador: Matheus Perdig√£o
+
 using System;
 using System.ComponentModel;
 using System.Globalization;
@@ -8,11 +10,11 @@ namespace Atividade4
         static void Main(string[] args)
         {
             Triangulo t = new Triangulo();
-            Console.WriteLine("Digite os n˙meros do para o lado A do tri‚ngulo:");
+            Console.WriteLine("Digite os n√∫meros do para o lado A do tri√¢ngulo:");
             t.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Digite os n˙meros do para o lado B do tri‚ngulo:");
+            Console.WriteLine("Digite os n√∫meros do para o lado B do tri√¢ngulo:");
             t.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Digite os n˙meros do para o lado C do tri‚ngulo:");
+            Console.WriteLine("Digite os n√∫meros do para o lado C do tri√¢ngulo:");
             t.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double p1 = Math.Pow(t.A, 2);
             double p2 = Math.Pow(t.B, 2);
@@ -20,7 +22,7 @@ namespace Atividade4
 
             if (t.A <= 0 || t.B <= 0 || t.C <= 0)
             {
-                Console.WriteLine("Digite um n˙mero maior que 0:");
+                Console.WriteLine("Digite um n√∫mero maior que 0:");
             }
 
             else
@@ -29,7 +31,7 @@ namespace Atividade4
                 if (t.A >= t.B + t.C)
 
                 {
-                    Console.WriteLine("N„o forma tri‚ngulo");
+                    Console.WriteLine("N√£o forma tri√¢ngulo");
                 }
 
                 else if (p1 == p2 + p3)
@@ -49,7 +51,7 @@ namespace Atividade4
 
                 else if (p1 == p2 && p2 == p3 && p1 == p3)
                 {
-                    Console.WriteLine("Triangulo Equil·tero");
+                    Console.WriteLine("Triangulo Equil√°tero");
                 }
                 else if (p1 == p2 || p1 == p2 || p3 == p2)
                 {
